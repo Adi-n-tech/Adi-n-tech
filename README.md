@@ -43,11 +43,11 @@
 
 ## Stalk Me 👀
 
-<a href="[https://bit.ly/rohit-twitter](https://twitter.com/adi_n_tech)" target="_blank"><img src="https://img.shields.io/badge/Twitter-Rohit_Jakhar-00acee?style=for-the-badge&logo=twitter" alt="Twitter"></a>
-<a href="https://bit.ly/rohit-insta" target="_blank"><img src="https://img.shields.io/badge/Instagram-Rohit_Jakhar-E1306C?style=for-the-badge&logo=Instagram" alt="Instagram"></a>
+<a href="[https://twitter.com/adi_n_tech](https://twitter.com/adi_n_tech)" target="_blank"><img src="https://img.shields.io/badge/Twitter-adi_n_tech-00acee?style=for-the-badge&logo=twitter" alt="Twitter"></a>
+<a href="https://www.instagram.com/accounts/login/?next=/adi_n_tech/" target="_blank"><img src="https://img.shields.io/badge/Instagram-adi_n_tech-E1306C?style=for-the-badge&logo=Instagram" alt="Instagram"></a>
 <a href="https://bit.ly/rohit-github" target="_blank"><img src="https://img.shields.io/badge/github-Rohit-4078c0?style=for-the-badge&logo=github" alt="github"></a> 
-<a href="https://bit.ly/rohit-stackOflow" target="_blank"><img src="https://img.shields.io/badge/Stackoverflow-Rohit%20Jakhar-ef8236?style=for-the-badge&logo=Stackoverflow" alt="Stackoverflow"></a> 
-<a href="https://bit.ly/rohit-linked" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Rohit%20Jakhar-0e76a8?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a> 
+<a href="https://stackoverflow.com/users/12819796/aditya-nandardhane" target="_blank"><img src="https://img.shields.io/badge/Stackoverflow-Aditya%20Nandardhane-ef8236?style=for-the-badge&logo=Stackoverflow" alt="Stackoverflow"></a> 
+<a href="https://bit.ly/rohit-linked" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Aditya%20Nandardhane-0e76a8?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a> 
 
 <p align="center">
 <img src="https://visitor-badge.glitch.me/badge?page_id=rohitjakhar">
