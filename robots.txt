@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://adi-n-tech.github.io/sitemap.xml
+Sitemap: https://adi-n-tech.github.io/Adi-n-tech/sitemap.xml

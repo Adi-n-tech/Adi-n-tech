@@ -3,7 +3,7 @@
 # Aditya Gopal Nandardhane
 ### Senior Software Engineer • Mobile (Android & KMP) • Cloud • IoT & Hardware Connectivity
 
-[![Portfolio](https://img.shields.io/badge/Live_Portfolio-adi--n--tech.github.io-38bdf8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://adi-n-tech.github.io/)
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-adi--n--tech.github.io%2FAdi--n--tech-38bdf8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://adi-n-tech.github.io/Adi-n-tech/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya_Nandardhane-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-nandardhane-2907a8182)
 [![Email](https://img.shields.io/badge/Email-adityanandardhane06%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityanandardhane06@gmail.com)
 
@@ -82,5 +82,5 @@ Senior Software Engineer with **6+ years of experience** specializing in archite
 </p>
 
 <p align="center">
-  <i>Explore full interactive portfolio at <a href="https://adi-n-tech.github.io/"><b>adi-n-tech.github.io</b></a></i>
+  <i>Explore full interactive portfolio at <a href="https://adi-n-tech.github.io/Adi-n-tech/"><b>adi-n-tech.github.io/Adi-n-tech</b></a></i>
 </p>
