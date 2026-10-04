@@ -1,0 +1,17 @@
+{
+  "name": "Aditya Gopal Nandardhane | Senior Software Engineer",
+  "short_name": "Aditya Portfolio",
+  "description": "Portfolio of Aditya Gopal Nandardhane - Senior Software Engineer specializing in Mobile (Android/KMP), Cloud Backend, and Embedded Systems.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#090d16",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "./assets/images/favicon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
